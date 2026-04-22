@@ -31,7 +31,6 @@ public class Main {
             } catch (Exception e) {
                 System.out.println("Input Tidak Valid❌");
                 mainan.nextLine();
-
             }
         }
     }
